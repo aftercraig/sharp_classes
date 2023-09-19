@@ -1,0 +1,14 @@
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\sharp_classes\bin\Debug\net7.0\sharp_classes.exe
+C:\Users\Pavel\Desktop\sharp_classes\bin\Debug\net7.0\sharp_classes.deps.json
+C:\Users\Pavel\Desktop\sharp_classes\bin\Debug\net7.0\sharp_classes.runtimeconfig.json
+C:\Users\Pavel\Desktop\sharp_classes\bin\Debug\net7.0\sharp_classes.dll
+C:\Users\Pavel\Desktop\sharp_classes\bin\Debug\net7.0\sharp_classes.pdb
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.dll
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\refint\sharp_classes.dll
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.pdb
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\sharp_classes.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\sharp_classes\obj\Debug\net7.0\ref\sharp_classes.dll
